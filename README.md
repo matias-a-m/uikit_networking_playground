@@ -30,9 +30,10 @@ El proyecto utiliza:
 
    ```bash
    git clone https://github.com/tu-usuario/uikit_networking_playground.git
-    Abre el archivo StarWarsVehicles.playground en Xcode.
+   
+  Abre el archivo StarWarsVehicles.playground en Xcode.
 
-    Asegúrate de seleccionar la vista de Live View para visualizar la aplicación en acción.
+  Asegúrate de seleccionar la vista de Live View para visualizar la aplicación en acción.
 
-    Explora y disfruta de la experiencia de Star Wars Vehicles en tu Playground!
-    ```
+  Explora y disfruta de la experiencia de Star Wars Vehicles en tu Playground!
+    
