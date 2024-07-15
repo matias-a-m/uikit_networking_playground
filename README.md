@@ -34,6 +34,3 @@ El proyecto utiliza:
   Abre el archivo StarWarsVehicles.playground en Xcode.
 
   Asegúrate de seleccionar la vista de Live View para visualizar la aplicación en acción.
-
-  Explora y disfruta de la experiencia de Star Wars Vehicles en tu Playground!
-    
